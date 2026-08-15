@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-jklo5d.koi888.xyz/sitemap.xml
